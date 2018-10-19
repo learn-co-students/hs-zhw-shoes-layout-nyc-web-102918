@@ -25,3 +25,39 @@
 /* Posititoning Classes */
 
 
+#grass{
+  width: 70%;
+  float: left;
+  margin-bottom: 2%;
+}
+
+#shoe {
+  width: 25%;
+  float: right;
+}
+
+#bug {
+  width:31%;
+margin-bottom: 2%;
+margin-right: 3%;
+height: 10%;
+display:inline-block;
+}
+
+#heel{
+  width:31%;
+margin-bottom: 2%;
+height: 10%;
+display: block;
+float: right;
+}
+
+#border_right{
+  display: table-cell;
+}
+
+#contact{
+  display: table-cell;
+}
+
+
